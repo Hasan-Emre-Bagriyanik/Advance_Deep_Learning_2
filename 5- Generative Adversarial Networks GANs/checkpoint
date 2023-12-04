@@ -1,0 +1,2 @@
+model_checkpoint_path: "gans_model_weights_h5"
+all_model_checkpoint_paths: "gans_model_weights_h5"
